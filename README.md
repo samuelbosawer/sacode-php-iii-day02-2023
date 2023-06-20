@@ -8,5 +8,5 @@
     ✅ Boolean
     ✅ Array 
     ✅ null
-    ✅ object
+    ⏳object
 
