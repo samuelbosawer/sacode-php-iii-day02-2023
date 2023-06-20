@@ -7,6 +7,6 @@
     ✅ Float
     ✅ Boolean
     ✅ Array 
-    ⏳ null
-    ⏳ object
+    ✅ null
+    ✅ object
 

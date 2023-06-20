@@ -44,6 +44,11 @@ $or = $true ||  $false;
 // $nama = array('Sam', 'Billy', 'Anjas','Alpais');
 $nama = ['Sam', 'Billy'];
 
+$null = null;
+$tes = '';
+
+var_dump($null)
+
 ?>
 <!doctype html>
 <html lang="en">
